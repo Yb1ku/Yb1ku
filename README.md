@@ -1,6 +1,6 @@
 - 👋 Junior Data Scientist with BSc in Electronics and Communication Engineering & MSc in Artificial Intelligence. 
 
-- 🧠 Recently finished my Master's Thesis about using Sparse Autoencoders with JumpReLU activation for monosemantic feature extraction in the Sentence-BERT language model ([more information here](https://yb1ku.github.io/SAEs-for-Sentence-BERT/)).
+- 🧠 Recently finished my [Master's Thesis](https://yb1ku.github.io/SAEs-for-Sentence-BERT/) on Language Model interpretability with Sparse Autoencoders. 
 
 - 📚 Developed my Bechelor's Thesis on Machine Learning algorithms and LSTM networks applied to anomaly detection in wind turbines (I published a [paper](https://revistas.udc.gal/index.php/JA_CEA/article/view/10813)). 
 
